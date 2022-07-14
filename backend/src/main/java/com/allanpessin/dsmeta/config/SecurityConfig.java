@@ -1,4 +1,4 @@
-package com.allanpessin.dsmeta;
+package com.allanpessin.dsmeta.config;
 
 import java.util.Arrays;
 
